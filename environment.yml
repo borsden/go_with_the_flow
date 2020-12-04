@@ -1,0 +1,13 @@
+channels:
+  - conda-forge
+  - https://conda.anaconda.org/conda-forge/
+  - defaults
+  - menpo
+dependencies:
+  - cupy=7.7.0=py37h940342b_0
+  - jupyter=1.0.0=py_2
+  - numpy=1.19.1=py37h8960a57_0
+  - pyvista=0.25.3=py_0
+  - pandas=1.1.0=py37h3340039_0
+  - tqdm=4.48.0=pyh9f0ad1d_0
+  - matplotlib=3.3.0=1
